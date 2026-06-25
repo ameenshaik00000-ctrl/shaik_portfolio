@@ -16,7 +16,7 @@ const projects = [
     description:
       'Modern responsive portfolio built to showcase my skills, projects, and experience.',
     tech: ['React', 'Tailwind', 'Framer Motion'],
-    github: 'https://github.com',
+    github: 'https://shaik-portfolio-kappa.vercel.app/',
   },
   {
     title: 'Task Manager App',
